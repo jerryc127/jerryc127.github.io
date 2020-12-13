@@ -1,0 +1,27 @@
+{
+    "name": "JerryC",
+    "short_name": "JerryC", 
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/pwa/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/pwa/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/pwa/maskable_icon.png",
+            "sizes": "341x341",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Disallow: /photos/
+Disallow: /js/
+Disallow: /css/
+Disallow: /image/
+
+Sitemap: https://jerryc.me/sitemap.xml
+Sitemap: https://jerryc.me/baidusitemap.xml
